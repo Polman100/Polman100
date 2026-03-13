@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Polman
-- 👀 I’m interested in web development and astronomy
-- 🌱 I’m currently improving my react skills
 
 <!---
 Polman100/Polman100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Polman
 
-This is my GitHub profile with some of my programming projects.
+- This is my GitHub profile with some of my programming projects.
 
-Enjoy browsing!
+- Enjoy browsing!
 
 <!---
 Polman100/Polman100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
